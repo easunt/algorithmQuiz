@@ -14,13 +14,13 @@ public class Solution3 {
         int arrCnt = 0;
         int index = 0;
 
+
         for (int truck : truck_weights)
             waiting.offer(truck);
 
         while (true) {
             if (timeArr[arrCnt] == bridge_length) {
-                sum -= bridge.peek();
-                bridge.poll();
+                sum -= bridge.poll();
                 arrCnt++;
                 if (bridge.isEmpty() && waiting.isEmpty()) break;
             }

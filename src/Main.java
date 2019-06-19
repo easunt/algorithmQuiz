@@ -1,6 +1,8 @@
+import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 import solutions.Solution1;
 import solutions.Solution2;
 import solutions.Solution3;
+import solutions.Solution4;
 
 public class Main {
 
@@ -18,5 +20,8 @@ public class Main {
         Solution3 sol3 = new Solution3();
         int[] truck_weights = {10, 10, 10, 10, 10, 10, 10, 10, 10, 10};
         System.out.println(sol3.solution(100, 100, truck_weights));
+
+        Solution4 sol4 = new Solution4();
+        System.out.println(sol4.solution(6));
     }
 }
