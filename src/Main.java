@@ -1,8 +1,7 @@
 import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
-import solutions.Solution1;
-import solutions.Solution2;
-import solutions.Solution3;
-import solutions.Solution4;
+import solutions.*;
+
+import java.util.Arrays;
 
 public class Main {
 
@@ -23,5 +22,15 @@ public class Main {
 
         Solution4 sol4 = new Solution4();
         System.out.println(sol4.solution(6));
+
+        Solution5 sol5 = new Solution5();
+        int[] array = {1, 5, 2, 6, 3, 7, 4};
+        int[][] commands = {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};
+        System.out.println(Arrays.toString(sol5.solution(array, commands)));
+
+        Solution6 sol6 = new Solution6();
+        int[] array2 = {20,20,200};
+        System.out.println(sol6.solution(array2));
+
     }
 }
