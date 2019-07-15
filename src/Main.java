@@ -32,5 +32,12 @@ public class Main {
         int[] array2 = {20,20,200};
         System.out.println(sol6.solution(array2));
 
+        Solution7 sol7 = new Solution7();
+        int[] array3 = {3,0,6,1,5};
+        System.out.println(sol7.solution(array3));
+
+        Solution8 sol8 = new Solution8();
+        System.out.println(Arrays.toString(sol8.solution(4, 16)));
+
     }
 }
