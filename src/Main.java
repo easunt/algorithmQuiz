@@ -39,5 +39,16 @@ public class Main {
         Solution8 sol8 = new Solution8();
         System.out.println(Arrays.toString(sol8.solution(4, 16)));
 
+        Solution9 sol9 = new Solution9();
+        System.out.println(sol9.solution(1234));
+
+        Solution10 sol10 = new Solution10();
+        int[] array4 = {2, 2, 3, 3, 4};
+        System.out.println(sol10.solution(array4));
+
+        Solution11 sol11 = new Solution11();
+        int[] array5 = {3, 8, 9, 7, 6};
+        System.out.println(Arrays.toString(sol11.solution(array5, 3)));
+
     }
 }
