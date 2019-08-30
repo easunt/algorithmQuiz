@@ -1,5 +1,6 @@
 package solutions;
 
+//codility CyclicRotation
 public class Solution11 {
     public int[] solution(int[] A, int K) {
         if (A.length == 0)
@@ -13,3 +14,4 @@ public class Solution11 {
         return A;
     }
 }
+

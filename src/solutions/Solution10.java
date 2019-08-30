@@ -1,6 +1,7 @@
 package solutions;
 import java.util.Arrays;
 
+//codility OddOcuurencesInArray
 public class Solution10 {
     public int solution(int[] A) {
         int answer = 0;

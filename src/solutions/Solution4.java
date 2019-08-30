@@ -4,7 +4,6 @@ public class Solution4 {
     public int solution(int n) {
         int n1 = 1;
         int n2 = 0;
-        int result = 0;
         if(n <= 1)
             return 1;
 
@@ -13,7 +12,7 @@ public class Solution4 {
             n2 = n1;
             n1 = temp;
         }
-        return result;
+        return n1;
     }
 
     public int getPibonaci(int n){
