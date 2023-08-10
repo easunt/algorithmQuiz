@@ -1,145 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/solutions/Solution3.java" line="21" mnemonic="5" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f88142-a3ab-4150-bc16-9eada16d46e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Bfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Dfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/Exam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/Exam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/Exam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/others/Others1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/Solution12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/Solution13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/Solution14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/Solution15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/Solution16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/Solution17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/Solution18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/Solution19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solutions/Solution20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wdz/WdzSolution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wdz/WdzSolution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/META-INF/algorithmQuiz.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmQuiz/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/solutions/Solution10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmQuiz/solutions/Solution10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/solutions/Solution11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmQuiz/solutions/Solution11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/solutions/Solution4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmQuiz/solutions/Solution4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/kakaoPay/Kakao1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/kakaoPay/Kakao2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/kakaoPay/Kakao3.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/Solution10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/Solution11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/Solution4.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="algorithmQuiz" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="92" column="57" selection-start-line="92" selection-start-column="57" selection-end-line="92" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exam/Exam1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Dfs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Bfs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exam/Exam2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exam/Exam3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/others/Others1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="640" column="8" selection-start-line="640" selection-start-column="8" selection-end-line="640" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/javax/swing/DefaultListModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="231" column="24" selection-start-line="231" selection-start-column="24" selection-end-line="231" selection-end-column="24" />
-              <folding>
-                <element signature="e#6837#6838#0" expanded="true" />
-                <element signature="e#6886#6887#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -217,12 +119,19 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="840" />
     <option name="y" value="23" />
     <option name="width" value="840" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectId" id="2QQHe9sVasiFnJkYkQ1GhvcEX0t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -261,39 +170,28 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matthew.kd/toy/algorithmQuiz&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practice" />
+      <recent name="wdz" />
       <recent name="skplanet" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -326,6 +224,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -359,6 +258,13 @@
       <workItem from="1565318141189" duration="50005000" />
       <workItem from="1566279310817" duration="1744000" />
       <workItem from="1566806939001" duration="19693000" />
+      <workItem from="1685278978656" duration="3506000" />
+      <workItem from="1685337818922" duration="21190000" />
+      <workItem from="1685447065895" duration="6396000" />
+      <workItem from="1685498452306" duration="2231000" />
+      <workItem from="1685581715969" duration="12703000" />
+      <workItem from="1686129905242" duration="690000" />
+      <workItem from="1687048340249" duration="620000" />
     </task>
     <servers />
   </component>
@@ -401,7 +307,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -409,75 +315,70 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/solutions/Solution20.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/solutions/Solution20.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/solutions/Solution20.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/Test4.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/Test4.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/Test4.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/Test4.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/jin/Jin.java</url>
           <line>1</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/jin/Jin.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/skplanet/Skplanet6.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/Practice3.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/Practice3.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wdz/WdzSolution1.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="Arrays.binarySearch(sArray, P[idx], Q[idx]+1, &quot;C&quot;)" language="JAVA" />
-        <watch expression="tempArray" language="JAVA" />
-        <watch expression="map.get(3)" language="JAVA" />
-        <watch expression="sortStr(&quot;ecod&quot;)" language="JAVA" />
-        <watch expression="sortStr(&quot;code&quot;)" language="JAVA" />
-        <watch expression="s.get(index)" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
