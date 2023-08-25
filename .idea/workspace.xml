@@ -8,25 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f88142-a3ab-4150-bc16-9eada16d46e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bm/BmSolution5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wdz/WdzSolution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wdz/WdzSolution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solutions/Solution21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/META-INF/algorithmQuiz.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmQuiz/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/kakaoPay/Kakao1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/kakaoPay/Kakao2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmQuiz/kakaoPay/Kakao3.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,18 +158,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/matthew.kd/toy/algorithmQuiz&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/matthew.kd/toy/algorithmQuiz",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="practice" />
@@ -265,6 +250,7 @@
       <workItem from="1685581715969" duration="12703000" />
       <workItem from="1686129905242" duration="690000" />
       <workItem from="1687048340249" duration="620000" />
+      <workItem from="1691651957222" duration="1838000" />
     </task>
     <servers />
   </component>
